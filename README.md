@@ -18,4 +18,5 @@ lr=0.001, Tesla P100 <br>
 | ResNet101 | 97.58% | 50 | 64 | 224x224 |
 | ResNet152 | 97.83% | 30 | 64 | 224x224 |
 
-<br> 代码可以直接运行，命令端模式: python main.py --batch_size=xx --num_epochs=xx --image_size=xx --model=''
+<br> 代码可以直接运行，命令端模式: python main.py --batch_size=xx --num_epochs=xx --image_size=xx --model=''<br>
+第一次运行程序需要设置download=True
