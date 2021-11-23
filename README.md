@@ -3,3 +3,6 @@
 
 实验记录
 lr=0.001, Tesla P100
+|Model|Accuracy|batch_size|epoch|image_size|
+|:--||:--||:--||:--||:--|
+|CNN(自己写的网络)|88.44%|128|300|32*32|
