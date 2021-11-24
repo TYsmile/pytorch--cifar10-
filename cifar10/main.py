@@ -238,6 +238,6 @@ def main():
     print("程序运行时间为：{}小时{}分钟{:.2f}秒".format(hour, minute, second))
 
 
-# 按间距中的绿色按钮以运行脚本。
+# 运行函数
 if __name__ == '__main__':
     main()
